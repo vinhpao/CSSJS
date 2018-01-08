@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/ne8FuD' target='_blank'><img src='https://3.bp.blogspot.com/-S8u_AT8x79c/WlN7wkTzgmI/AAAAAAAAABc/ZUbEzCYvIgwfVtlwWspCqH_PeOmkuZSngCLcBGAs/s320/%25E1%25BA%25A3nh.jpg' width='500px'/><br/>13 Samsora Riverside</a>. Liên hệ : 0907.923.923. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/ne8FuD' target='_blank'><img src='https://3.bp.blogspot.com/-S8u_AT8x79c/WlN7wkTzgmI/AAAAAAAAABc/ZUbEzCYvIgwfVtlwWspCqH_PeOmkuZSngCLcBGAs/s320/%25E1%25BA%25A3nh.jpg' width='500px'/><br/>SAMSORA RIVERSIDE giá tốt</a>. Liên hệ : 0907.923.923. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
